@@ -1,1 +1,1 @@
-{"version":3,"sources":[],"names":[],"mappings":"","file":"style_Kos.css"}
+{"version":3,"sources":["style_Kos.scss","style_Kos.css"],"names":[],"mappings":"AAEI;EAEI,kBAAA;EACA,gBAAA;EACA,mJAAA;ACFR;ADII;EAEI,kBAAA;EACA,gBAAA;EACA,mJAAA;EACA,8BAAA;EACA,0BAAA;EAAA,uBAAA;EAAA,kBAAA;EACA,sBAAA;EACA,qBAAA;ACHR;ADKI;EAGI,qBAAA;EACA,6BAAA;EACA,gBAAA;ACLR;ADOI;EAEI,sBAAA;ACNR","file":"style_Kos.css"}
