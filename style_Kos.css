@@ -14,11 +14,22 @@
   margin: 5% auto 0 auto;
   padding: 0 3% 10px 3%;
 }
+.BestPropositions .elements {
+  padding: 5% 0 0 0;
+}
 .BestPropositions .elements .element {
   display: inline-block;
   background-color: transparent;
   transition: 0.5s;
+  padding: 2%;
+  margin: 0 3%;
 }
-.BestPropositions .element:hover {
-  background-color: grey;
+.BestPropositions .elements .element .image {
+  width: 250px;
+  height: 250px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.BestPropositions .elements .element:hover {
+  background-color: lightgrey;
 }/*# sourceMappingURL=style_Kos.css.map */
